@@ -1,0 +1,6 @@
+2026-10-09 14:25:15,293 | INFO | [USER] | Registered user=alice quota=3
+2026-10-09 14:25:15,295 | INFO | [USER] | Registered user=bob quota=5
+2026-10-09 14:25:15,297 | INFO | [SCHEDULER] | Task scheduled task_id=499fee79-07c4-4d22-b902-a69887ee850b user=alice time=14:08 action=sync target=/data/x
+2026-10-09 14:25:15,298 | INFO | [SCHEDULER] | Task scheduled task_id=98b5a603-8602-49b9-8597-be9cec818b0b user=bob time=14:09 action=backup target=/srv/y
+2026-10-09 14:25:15,300 | INFO | [SCHEDULER] | Task scheduled task_id=6f3a0436-b6b3-4307-9274-fa42ab2b0158 user=alice time=14:10 action=delete target=/tmp/z
+2026-10-09 14:25:15,301 | INFO | [SCHEDULER] | Scheduler started
